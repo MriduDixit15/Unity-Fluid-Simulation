@@ -1,7 +1,7 @@
 # Unity Fluid Simulation
 A port of PavelDoGreat/WebGL-Fluid-Simulation for Unity with some extras! :)
 
-<iframe src='//gifs.com/embed/lxRNPl' frameborder='0' scrolling='no' width='332px' height='332px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+![demo](https://j.gifs.com/lxRNPl.gif)
 
 ## References
 
