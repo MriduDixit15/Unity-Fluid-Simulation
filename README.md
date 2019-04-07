@@ -1,6 +1,5 @@
 # Unity Fluid Simulation
 A port of PavelDoGreat/WebGL-Fluid-Simulation for Unity with some extras! :)
-[Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
 <video width ="333" height ="333" autoplay loop>
     <source src="fluiddemo.webm" type="video/webm">
