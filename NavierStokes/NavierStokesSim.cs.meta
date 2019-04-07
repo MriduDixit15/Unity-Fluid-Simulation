@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c78e22b6d0a14424e89200c6f4543300
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Settings: {fileID: 11400000, guid: 139729a5769f21e4784903135d459e33, type: 2}
+  - NavierStokesSimShader: {fileID: 4800000, guid: 019fbef4e41a3c840b14eff6feb5c00a,
+      type: 3}
+  - outputMaterial: {fileID: 2100000, guid: 5d107bc33db06204499290708a97c038, type: 2}
+  - ObjectVelocityMaterial: {fileID: 2100000, guid: 5d107bc33db06204499290708a97c038,
+      type: 2}
+  - CustomVelocityRenderer: {instanceID: 0}
+  - ObjectToDraw: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
