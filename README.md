@@ -1,5 +1,5 @@
-# WebGL Fluid Simulation
-
+# Unity Fluid Simulation
+A port of PavelDoGreat/WebGL-Fluid-Simulation for Unity with some extras! :)
 [Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
 <img src="/screenshot.png?raw=true" width="800">
