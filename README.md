@@ -1,5 +1,5 @@
 # Unity Fluid Simulation
-A port of PavelDoGreat/WebGL-Fluid-Simulation for Unity with some extras! :)
+A WIP fluid sim, based on PavelDoGreat/WebGL-Fluid-Simulation for Unity!  :dizzy:
 
 ![demo](https://j.gifs.com/lxRNPl.gif)
 
