@@ -2,7 +2,7 @@
 A port of PavelDoGreat/WebGL-Fluid-Simulation for Unity with some extras! :)
 
 <video width ="333" height ="333" autoplay loop>
-    <source src="fluiddemo.webm" type="video/webm">
+    <source src="https://raw.githubusercontent.com/julhe/Unity-Fluid-Simulation/master/fluiddemo.webm" type="video/webm">
 </video>
 
 
